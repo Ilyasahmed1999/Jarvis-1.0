@@ -1,9 +1,8 @@
 # jarvis
-......................................................................................................
 jarvis is basically a virtual assistant for the desktop or a laptop. as we know google assistant is best
 for the Android devices. but we don't have same for a desktop.We have for desktop such as siri and
 cortana. but everything has advantages and disadvantages
-......................................................................................................
+
 Jarvis automate the task that generally a desktop user does repeatedly such as 
 
 1.Opening a particular Application(such as Notepad,WebBrowser,Games)
@@ -16,7 +15,6 @@ Jarvis automate the task that generally a desktop user does repeatedly such as
 8.Knowing the time, weather and can perform any mathematical Calculations
 9.Currency Convertor
 10.And the last one Daily dairy Writing
-......................................................................................................
 
 Technical things.........
 1.Python
@@ -33,7 +31,6 @@ Technical things.........
 11.CurrencyConvertor (pip install CurrencyConvertor)(used for currency conversion)
 12.click(pip install click)(used to click a specific option in web automation)
 
-.....................................................................................................
 Many more features that can be added to it suchas
 1.Image Recognition
 2.Speaker Recognition(for authenticate purpose) 
