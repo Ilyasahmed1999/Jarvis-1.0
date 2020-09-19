@@ -1,7 +1,14 @@
-# jarvis
-jarvis is basically a virtual assistant for the desktop or a laptop. as we know google assistant is best
-for the Android devices. but we don't have same for a desktop.We have for desktop such as siri and
-cortana. but everything has advantages and disadvantages
+# Jarvis
+Problem Statment: We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistance such as 
+                  google assistance, alexa, siri but everything has its own goods and bads. By using that virtual assistances we cant automate the tasks that we 
+                  generally do on our day to day basis such as sending a mail, sending the whatsapp message and  opening any desktop application and reading the content
+                  of the website and Handling Word documents and the PDFs and Many More things...
+Solution: We have come up with the Python Desktop Application named as Jarvis. which has exactly all the functionality that we have in the existing virtual assistances.
+          and addition to that we have added the functionalities that user performs on daily basis and repeatedly.
+              
+
+Jarvis is basically a virtual assistant for the desktop or a laptop. as we know google assistant is best for the Android devices.
+but we don't have same for a desktop.We have for desktop such as siri and cortana. but everything has advantages and disadvantages
 
 Jarvis automate the task that generally a desktop user does repeatedly such as 
 
@@ -17,7 +24,7 @@ Jarvis automate the task that generally a desktop user does repeatedly such as
 
 6.Web Scraping for Reading the content of the website(such as news or stories)
 
-7. Sending the mail to specific mail id specified by user by using the system environmental variables
+7.Sending the mail to specific mail id specified by user by using the system environmental variables
 
 8.Knowing the time, weather and can perform any mathematical Calculations
 
