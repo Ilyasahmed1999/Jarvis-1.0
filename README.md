@@ -35,11 +35,10 @@ Jarvis automate the task that generally a desktop user does repeatedly such as
 9.Currency Convertor
 <br /><br />
 10.And the last one Daily dairy Writing
-<br />]
+<br />
 
 **Technologies Used:**
 
-<br />
 1.Python
 
 2.Selenium (pip  install selenium)(for web automation)
