@@ -1,6 +1,6 @@
 # Jarvis
 Problem Statment: We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistance such as 
-                  google assistance, alexa, siri but everything has its own goods and bads. By using that virtual assistances we cant automate the tasks that we 
+                  google assistance, alexa, siri but everything has its own positives and negatives. By using that virtual assistances we cant automate the tasks that we 
                   generally do on our day to day basis such as sending a mail, sending the whatsapp message and  opening any desktop application and reading the content
                   of the website and Handling Word documents and the PDFs and Many More things...
 Solution: We have come up with the Python Desktop Application named as Jarvis. which has exactly all the functionality that we have in the existing virtual assistances.
@@ -32,7 +32,7 @@ Jarvis automate the task that generally a desktop user does repeatedly such as
 
 10.And the last one Daily dairy Writing
 
-Technical things.........
+Technologies Used:
 
 1.Python
 
