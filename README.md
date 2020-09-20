@@ -1,16 +1,16 @@
 # Jarvis
 **Problem Statment:**
 
-<br/> We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistance such as 
+ We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistance such as 
                   google assistance, alexa, siri but everything has its own positives and negatives. By using that virtual assistances we cant automate the tasks that we 
                   generally do on our day to day basis such as sending a mail, sending the whatsapp message and  opening any desktop application and reading the content
                   of the website and Handling Word documents and the PDFs and Many More things...<br /><br />
 **Solution:** 
 
-<br /> We have come up with the Python Desktop Application named as Jarvis. which has exactly all the functionality that we have in the existing virtual assistances.
+ We have come up with the Python Desktop Application named as Jarvis. which has exactly all the functionality that we have in the existing virtual assistances.
           and addition to that we have added the functionalities that user performs on daily basis and repeatedly.
               
-<br /><br />
+<br />
 Jarvis is basically a virtual assistant for the desktop or a laptop. as we know google assistant is best for the Android devices.
 but we don't have same for a desktop.We have for desktop such as siri and cortana. but everything has advantages and disadvantages
 <br /><br />
