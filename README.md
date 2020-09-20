@@ -1,8 +1,8 @@
-# Jarvis
+# Jarvis - Virtual Assistant
 **Problem Statment:**
 
- We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistance such as 
-                  google assistance, alexa, siri but everything has its own positives and negatives. By using that virtual assistances we cant automate the tasks that we 
+ We are In the world of Technology. Where every thing is considered as binary either true or false. Now a days we have many virtual assistant such as 
+                  google assistant, alexa, siri but everything has its own positives and negatives. By using that virtual assistant we cant automate the tasks that we 
                   generally do on our day to day basis such as sending a mail, sending the whatsapp message and  opening any desktop application and reading the content
                   of the website and Handling Word documents and the PDFs and Many More things...<br /><br />
 **Solution:** 
