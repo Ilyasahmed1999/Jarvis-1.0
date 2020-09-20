@@ -35,7 +35,8 @@ Jarvis automate the task that generally a desktop user does repeatedly such as
 9.Currency Convertor
 <br /><br />
 10.And the last one Daily dairy Writing
-<br /><br />
+<br />]
+
 **Technologies Used:**
 
 <br />
