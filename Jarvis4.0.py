@@ -5,6 +5,8 @@ import datetime
 import wikipedia #pip install wikipedia
 import webbrowser
 import os
+import math
+import time
 import smtplib
 import random
 import sys
@@ -973,3 +975,6 @@ if __name__ == "__main__":
             speak("Okay!  As your Wish")
             sys.exit()
 
+            
+      #desktop application
+    
