@@ -5,6 +5,8 @@ import datetime
 import wikipedia #pip install wikipedia
 import webbrowser
 import os
+import math
+import time
 import smtplib
 import random
 import sys
@@ -829,7 +831,10 @@ def diary(myday):
       f.write(entry)
       f.write(myday)
       f.close()
-
+#time function
+def timeManipulation():
+    t=time.now()
+    
 def weatherinfo(city):
      
     api_key = "ba74d82c297c71baa6d874a4c98d37f8"
@@ -972,4 +977,8 @@ if __name__ == "__main__":
             print("Okay!  As your Wish")            
             speak("Okay!  As your Wish")
             sys.exit()
+       
 
+            
+      #desktop application
+    
